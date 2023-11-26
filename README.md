@@ -4,5 +4,4 @@
 - 🔭 pracuje nad projektem "What2watch"
 
 ## link do mojej strony:
-https://github.com/Kacpergalek/Kacpergalek.github.io.git
-
+https://kacpergalek.github.io/
