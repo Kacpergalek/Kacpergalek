@@ -5,3 +5,6 @@
 
 ## link do mojej strony:
 https://kacpergalek.github.io/
+
+## link do forka
+https://github.com/Kacpergalek/what2watch.git
