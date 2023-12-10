@@ -9,4 +9,4 @@ https://kacpergalek.github.io/
 ## link do forka
 https://github.com/Kacpergalek/what2watch.git
 ### link do artykułu:
-https://paperswithcode.com/paper/hugginggpt-solving-ai-tasks-with-chatgpt-and
+https://paperswithcode.com/paper/autoad-movie-description-in-context
