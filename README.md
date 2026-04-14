@@ -3,15 +3,7 @@
 ### 🎓 Computer Science Student at AGH University of Krakow
 I am an aspiring Software Developer focused on building functional and scalable applications. I enjoy solving complex problems using **Python**, **React**, and **TypeScript**. Currently, I'm deepening my knowledge in **Machine Learning** and **Digital Image Processing**.
 
----
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python (Main), TypeScript, C/C++, SQL, C#
-- **Frontend:** React, TSX, HTML5/CSS3
-- **Backend:** REST APIs, Flask/FastAPI (Python)
-- **Environment:** Linux (Ubuntu/WSL), Git, Bash
-
----
 
 ### 🚀 Key Projects
 
@@ -19,7 +11,7 @@ I am an aspiring Software Developer focused on building functional and scalable 
 *A Python-based simulation tool for logistics and supply chain management.*
 - Implemented core logic for simulating goods movement and stock management.
 - Focused on algorithmic efficiency and data structure optimization.
-- **Tech:** Python
+- **Tech:** javascript, python
 
 #### 🎫 [Smart Receipt (Project Overview)](https://github.com/Kacpergalek)
 *Full-stack application for digital receipt management.*
@@ -27,16 +19,48 @@ I am an aspiring Software Developer focused on building functional and scalable 
 - Integrated with a backend via **REST API** to process and store data.
 - **Note:** This project demonstrates my ability to connect frontend with backend logic.
 
-#### 🎮 [ProjectPseudo](https://github.com/MaciejJamrozy/projectPseudo) & [PZ2Project](https://github.com/robertert/PZ2Project)
-*Collaborative academic projects.*
-- Contributed to backend features using **Python** and **C#**.
-- Worked in a team environment using **Git** for version control.
+#### 🤖 IoT & Robotics: "The Smart Planter"
+*Built as part of an IoT course at AGH.*
+- Developed a self-driving flower pot that tracks sunlight and navigates to the most sunlit areas.
+- Automated irrigation system that returns to a docking station for refilling.
+- **Tech:** Implemented communication using **MQTT protocol**, sensors integration, and motor control.
+
+#### 💻 Compilers: "PseudoLang"
+*A custom programming language and interpreter.*
+- Designed a language that understands human-like pseudocode (supporting various commands like `print`, `shout`, etc.).
+- Deep dived into **Compiler Theory**, lexical analysis, and parsing.
+- **Tech:** Python / Logic Design.
+
+#### 👁️ Computer Vision & Image Processing
+*Extensive work with digital image analysis.*
+- **Object Detection:** Using neural networks to detect faults in wiring/cables.
+- **Motion Detection:** Systems for identifying and tracking moving objects.
+- **Segmentation:** Advanced image segmentation techniques for data extraction.
+
+#### 🏥 Medical Consultations Web App
+*A full-stack project for health services.*
+- Developed a web platform using **React** and **TypeScript**.
+- Integrated **Firebase** for backend services, authentication, and real-time database management.
+
+#### 🇭🇺 Linguistics & Data: "Hungarian Core Words"
+- A data-driven project combining **Python** with linguistic analysis.
+- Analyzed the Hungarian language to identify "core words" and calculated the vocabulary threshold needed to understand 90% of the language.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, TypeScript, C/C++, C#, SQL
+- **Frameworks/Libraries:** React (TSX), OpenCV (Image Processing), tenserflow and pytorch (neural networks), MQTT
+- **Cloud/Backend:** Firebase, REST APIs
+- **Tools:** Linux (Bash), Git, Docker
+
+---
 
 ---
 
 ### 📫 How to reach me:
 - **Email:** kapigalson@gmail.com
-- **LinkedIn:** [Your Profile Link Here]
+- **LinkedIn:** https://www.linkedin.com/in/kacper-ga%C5%82ek-847b063b7/
 
 ---
 
