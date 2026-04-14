@@ -10,7 +10,7 @@ I am an aspiring Software Developer focused on building functional and scalable 
 #### 📦 [Supply Chain Simulator](https://github.com/Kacpergalek/Supply_chain_simulator)
 *A Python-based simulation tool for logistics and supply chain management.*
 - Implemented core logic for simulating goods movement and stock management.
-- Focused on algorithmic efficiency and data structure optimization.
+- Focused on visualzation aspect of the project.
 - **Tech:** javascript, python
 
 #### 🎫 [Smart Receipt (Project Overview)](https://github.com/Kacpergalek)
