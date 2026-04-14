@@ -13,7 +13,7 @@ I am an aspiring Software Developer focused on building functional and scalable 
 - Focused on visualzation aspect of the project.
 - **Tech:** javascript, python
 
-#### 🎫 [Smart Receipt (Project Overview)](https://github.com/Kacpergalek)
+#### 🎫 [Smart Receipt (Project Overview)]
 *Full-stack application for digital receipt management.*
 - Built a modern UI using **React with TypeScript (TSX)**.
 - Integrated with a backend via **REST API** to process and store data.
@@ -25,7 +25,7 @@ I am an aspiring Software Developer focused on building functional and scalable 
 - Automated irrigation system that returns to a docking station for refilling.
 - **Tech:** Implemented communication using **MQTT protocol**, sensors integration, and motor control.
 
-#### 💻 Compilers: "PseudoLang"
+#### 💻 Compilers: [ProjectPseudo](https://github.com/MaciejJamrozy/projectPseudo)
 *A custom programming language and interpreter.*
 - Designed a language that understands human-like pseudocode (supporting various commands like `print`, `shout`, etc.).
 - Deep dived into **Compiler Theory**, lexical analysis, and parsing.
@@ -42,7 +42,7 @@ I am an aspiring Software Developer focused on building functional and scalable 
 - Developed a web platform using **React** and **TypeScript**.
 - Integrated **Firebase** for backend services, authentication, and real-time database management.
 
-#### 🇭🇺 Linguistics & Data: "Hungarian Core Words"
+#### 🇭🇺 Linguistics & Data: [jezyki](https://github.com/Kacpergalek/Jezyki)
 - A data-driven project combining **Python** with linguistic analysis.
 - Analyzed the Hungarian language to identify "core words" and calculated the vocabulary threshold needed to understand 90% of the language.
 
